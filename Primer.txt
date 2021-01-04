@@ -10,5 +10,7 @@
 дли примера работы git
 хочу дописать еще строки
  
+kgrjnbdrgjzdr
 
+1 add string
 
